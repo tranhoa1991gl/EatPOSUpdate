@@ -5,7 +5,7 @@
   ],
   "app": {
     "url": "https://github.com/tranhoa1991gl/EatPOSUpdate/releases/download/v.1.0.0.5/EatPOS.1.0.0.5.zip",
-    "sha256": "d91ca7c2d9d593d49c4abfefc2a994c59348bb060a6e784403c31707d576b52c"
+    "sha256": "585549e7e177af1f88d909794d429b08fd091250457fa8d3bdeecfe7e2f31dbb"
   },
   "sqlScripts": [
     {
