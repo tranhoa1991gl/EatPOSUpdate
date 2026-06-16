@@ -4,8 +4,8 @@
     "Phiên bản cập nhật thử nghiệm"
   ],
   "app": {
-    "url": "https://github.com/tranhoa1991gl/EatPOSUpdate/releases/download/v.1.0.0.5/EatPOS.1.0.0.5.zip",
-    "sha256": "585549e7e177af1f88d909794d429b08fd091250457fa8d3bdeecfe7e2f31dbb"
+    "url": "https://github.com/tranhoa1991gl/EatPOSUpdate/releases/download/v.1.0.0.5/EatPOS.1.0.0.6.zip",
+    "sha256": "d9310dd5be8442ecd76d04406b1ccfc3ad47f7df8287f53285f79ecbbd275c71"
   },
   "sqlScripts": [
     {
