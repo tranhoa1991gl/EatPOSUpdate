@@ -1,3 +1,17 @@
 {
-  "version":"1.0.0.5"
+  "version": "1.0.0.5",
+  "releaseNotes": [
+    "Test SQL"
+  ],
+  "app": {
+    "url": "",
+    "sha256": ""
+  },
+  "sqlScripts": [
+    {
+      "migrationId": "2026-06-17-test",
+      "url": "https://raw.githubusercontent.com/tranhoa1991gl/EatPOSUpdate/main/sql/test.sql",
+      "sha256": ""
+    }
+  ]
 }
